@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+nav {
+    background: #222;
+    padding: 10px;
+    color: white;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+}
+
+input, textarea {
+    margin: 10px 0;
+    padding: 8px;
+}
+
+button {
+    background: #008CBA;
+    color: white;
+    padding: 10px;
+    border: none;
+}
